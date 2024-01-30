@@ -1,0 +1,12 @@
+body {
+    background-color: #f4f4fc;
+}
+
+.colorido {
+    background-color: #5464cc;
+}
+
+.btn:hover {
+    opacity: 1 !important;
+    transition: none !important;
+}
