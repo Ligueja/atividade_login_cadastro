@@ -14,7 +14,7 @@ Regras
 7. Insira um botão primário para submeter o formulário de cadastro (OK).
 8. Mantenha um padrão de design semelhante a página de Login (OK).
 
-A API (backEnd) utilizada para manipulação, foi a API de Recados que elaborei no módulo Introdução ao Back-end ((https://github.com/Ligueja/api_recados).
+A API (backEnd) utilizada para conusmo, foi a API de Recados que elaborei no módulo Introdução ao Back-end ((https://github.com/Ligueja/api_recados).
 
 ### LAYOUT
 
